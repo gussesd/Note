@@ -4,15 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a9cd19dba84cc283",
+        "id": "810ee1f03f9a1190",
         "type": "tabs",
         "children": [
           {
-            "id": "694d8cfb986a2a77",
+            "id": "f3e0855527b9e976",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "GF/GF.canvas",
+                "viewState": {
+                  "x": 370,
+                  "y": 320,
+                  "zoom": -1.1755996192080194
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GF/GF.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GF/GF.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GF/GF.canvas"
+              }
             }
           },
           {
@@ -150,7 +161,7 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "694d8cfb986a2a77",
+  "active": "f3e0855527b9e976",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-05-13 09.45.12.excalidraw.md",
     "Excalidraw/Drawing 2024-05-13 09.45.30.excalidraw.md",
