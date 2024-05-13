@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "7eedba50842366dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9cd19dba84cc283",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "694d8cfb986a2a77",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ba5ffad8b402c72",
+    "type": "split",
+    "children": [
+      {
+        "id": "0759dfde7b0e0fc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2442bd23b99e7eeb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67e2defc5b51305b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3aa151821493b7ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "d1c079c690544b9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "312b4b8cf3c88421",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7da99321f4f38303",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27d38cc6685c5efc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa417b594d492786",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a88331b3263ff3cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "05bf38249fd79de3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
+    }
+  },
+  "active": "694d8cfb986a2a77",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-05-13 09.45.12.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-13 09.45.30.excalidraw.md",
+    "GF/GF.canvas",
+    "Excalidraw",
+    "GF/ResourceComponent.md",
+    "Unit图谱.canvas",
+    "Work/week.md",
+    "GF/Entity Logic.md",
+    "GF/Entity Data.md",
+    "GF/实体组件.md",
+    "GF",
+    "Work/2024-04-03.md",
+    "Game.md",
+    "代办事项.md",
+    "Readme.md",
+    "2024-04-17.md",
+    "Editor/Readme.md",
+    "Editor/P2pPath解释.md",
+    "Editor/Odin.md",
+    "Editor/点对点编辑器.md",
+    "Work/测试.md",
+    "Work/流程流转.canvas",
+    "Work/双人交互.md",
+    "Work/综述.md",
+    "Work/2024-04-07.md",
+    "Work/2024-03-28.md",
+    "Work/2024-03-20.md",
+    "Work/2024-03-19.md",
+    "2024-04-09.md",
+    "未命名 2.md",
+    "备份/Lua.zip",
+    "备份/P2pPathData.lua",
+    "备份/MinorNpcP2p.lua",
+    "备份/UnitManager.lua",
+    "备份/P2pPathController.cs",
+    "备份/p2pPathData.txt",
+    "备份/新建文本文档.txt",
+    "备份"
+  ]
+}

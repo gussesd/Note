@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"34538ea7430d948f","type":"text","text":"单独编辑起点","x":-805,"y":-420,"width":250,"height":50},
+		{"id":"9c252e47ee4829e6","type":"text","text":"对首点的移动编辑不再影响全部节点","x":-805,"y":-260,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"0d498f2b77eb522b","fromNode":"34538ea7430d948f","fromSide":"bottom","toNode":"9c252e47ee4829e6","toSide":"top"}
+	]
+}

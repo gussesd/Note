@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"ce19ff715381e51e","x":-1280,"y":-420,"width":1200,"height":860,"type":"group","label":"Entity[实体]"},
+		{"id":"40c9b85c8f6994aa","x":240,"y":-160,"width":1140,"height":600,"type":"group","label":"Resource[资源加载器]"},
+		{"id":"6ee6dfc543375f9a","x":-680,"y":680,"width":716,"height":479,"type":"group","label":"ReferencePool 引用池"},
+		{"id":"03ff19c075c427b3","type":"text","text":"# UI","x":1920,"y":-519,"width":100,"height":69},
+		{"id":"4478a6f4db86b8ab","type":"text","text":"加载资源","x":591,"y":221,"width":250,"height":60},
+		{"id":"e80e4fee07fd27ba","type":"file","file":"GF/ResourceComponent.md","x":978,"y":74,"width":357,"height":50},
+		{"id":"875cfc940e23f37d","type":"text","text":"resource group","x":615,"y":-80,"width":200,"height":50},
+		{"id":"6135ceedf45928bb","type":"text","text":"资源的相关信息","x":270,"y":64,"width":250,"height":60},
+		{"id":"0591b0ebd17eaad6","type":"text","text":"resource manager","x":615,"y":72,"width":200,"height":52},
+		{"id":"ec63d90b0b500d39","type":"file","file":"GF/Entity Logic.md","x":-1160,"y":176,"width":230,"height":50},
+		{"id":"23d1894d3eba51bc","type":"file","file":"GF/Entity Data.md","x":-527,"y":-259,"width":220,"height":50},
+		{"id":"8eb57f00305cfc16","type":"file","file":"GF/实体组件.md","x":-517,"y":-39,"width":200,"height":50},
+		{"id":"f85072d6fe19916b","type":"text","text":"Entity Groups","x":-1045,"y":-159,"width":184,"height":50},
+		{"id":"751251b5a090da0b","type":"text","text":"优化可能:\n创建交给创建器,由创建器创建并交给组件管理,不自行创建生成","x":-930,"y":-339,"width":281,"height":130,"color":"#ffc933"},
+		{"id":"fa7f684173723ca4","type":"text","text":"Entity","x":-871,"y":171,"width":250,"height":55},
+		{"id":"923dff50ab5f3407","type":"text","text":"Entity Manage (会被组件调用)","x":-839,"y":-39,"width":184,"height":50}
+	],
+	"edges":[
+		{"id":"bd32f9e30ec6b16c","fromNode":"923dff50ab5f3407","fromSide":"left","toNode":"ec63d90b0b500d39","toSide":"top","label":"通过typeof()创建相应的逻辑\n"},
+		{"id":"233e3ffe79da2725","fromNode":"f85072d6fe19916b","fromSide":"right","toNode":"923dff50ab5f3407","toSide":"top","label":"存在"},
+		{"id":"d699d98c885ce435","fromNode":"23d1894d3eba51bc","fromSide":"bottom","toNode":"8eb57f00305cfc16","toSide":"top","label":"自行创建交给组件"},
+		{"id":"a58f74dc5e587a15","fromNode":"751251b5a090da0b","fromSide":"right","toNode":"23d1894d3eba51bc","toSide":"left","color":"3"},
+		{"id":"c58ec30249869105","fromNode":"875cfc940e23f37d","fromSide":"bottom","toNode":"0591b0ebd17eaad6","toSide":"top","label":"存在"},
+		{"id":"aa2170e19cc1af6e","fromNode":"0591b0ebd17eaad6","fromSide":"left","toNode":"6135ceedf45928bb","toSide":"right","label":"创建"},
+		{"id":"d554323cfe588e88","fromNode":"923dff50ab5f3407","fromSide":"bottom","toNode":"fa7f684173723ca4","toSide":"top","label":"根据Data 创建"},
+		{"id":"0e6f46cf768bf75c","fromNode":"8eb57f00305cfc16","fromSide":"left","toNode":"923dff50ab5f3407","toSide":"right","label":"控制"},
+		{"id":"3efaa23c468ba140","fromNode":"ec63d90b0b500d39","fromSide":"bottom","toNode":"fa7f684173723ca4","toSide":"bottom","label":"manage 将逻辑挂载到实体上"},
+		{"id":"31371e84d2c7f630","fromNode":"e80e4fee07fd27ba","fromSide":"left","toNode":"0591b0ebd17eaad6","toSide":"right","label":"控制"},
+		{"id":"881b57cdde3edaed","fromNode":"0591b0ebd17eaad6","fromSide":"bottom","toNode":"4478a6f4db86b8ab","toSide":"top","label":"loadAsset"},
+		{"id":"395d7482476452d3","fromNode":"40c9b85c8f6994aa","fromSide":"left","toNode":"fa7f684173723ca4","toSide":"top","label":"资源加载"}
+	]
+}
