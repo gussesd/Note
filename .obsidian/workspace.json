@@ -15,9 +15,9 @@
               "state": {
                 "file": "GF/GF.canvas",
                 "viewState": {
-                  "x": 370,
-                  "y": 320,
-                  "zoom": -1.1755996192080194
+                  "x": 261.74587087636615,
+                  "y": -971.7061242414264,
+                  "zoom": -0.7499410520451475
                 }
               }
             }
@@ -163,13 +163,14 @@
   },
   "active": "f3e0855527b9e976",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-05-17 11.11.21.excalidraw.md",
+    "GF/GF.canvas",
+    "Work/week.md",
     "Excalidraw/Drawing 2024-05-13 09.45.12.excalidraw.md",
     "Excalidraw/Drawing 2024-05-13 09.45.30.excalidraw.md",
-    "GF/GF.canvas",
     "Excalidraw",
     "GF/ResourceComponent.md",
     "Unit图谱.canvas",
-    "Work/week.md",
     "GF/Entity Logic.md",
     "GF/Entity Data.md",
     "GF/实体组件.md",
@@ -192,7 +193,6 @@
     "Work/2024-03-20.md",
     "Work/2024-03-19.md",
     "2024-04-09.md",
-    "未命名 2.md",
     "备份/Lua.zip",
     "备份/P2pPathData.lua",
     "备份/MinorNpcP2p.lua",
