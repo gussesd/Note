@@ -11,17 +11,14 @@
             "id": "995b4e3d19b0dfc1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "其他/流程.canvas",
-                "viewState": {
-                  "x": -500,
-                  "y": -320,
-                  "zoom": 0
-                }
+                "file": "其他/计划与流程.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "流程"
+              "icon": "lucide-file",
+              "title": "计划与流程"
             }
           }
         ]
@@ -182,21 +179,25 @@
   },
   "active": "995b4e3d19b0dfc1",
   "lastOpenFiles": [
-    "其他/计划与流程.md",
     "其他/流程.canvas",
+    "其他/计划与流程.md",
+    "Excalidraw/风暴.canvas",
+    "Work/2024-04-03.md",
+    "Work/2024-03-28.md",
+    "Work/2024-03-20.md",
+    "Work/2024-03-19.md",
+    "Work/[.md",
     "代办事项.md",
     "GF/流程.canvas",
     "GF/创建一个流程.canvas",
     "GF/Drawing 2025-01-02 20.31.55.excalidraw.md",
     "GF/逻辑流程.md",
     "GF/进度.md",
-    "Excalidraw/风暴.canvas",
     "Unit图谱.canvas",
     "Readme.md",
     "GF/ResourceComponent.md",
     "GF/GF.canvas",
     "问题.md",
-    "Work/[.md",
     "未命名.canvas",
     "Pasted image 20240715195555.png",
     "Pasted image 20240715194218.png",
@@ -220,12 +221,8 @@
     "其他",
     "Excalidraw/Drawing 2024-05-17 11.11.21.excalidraw.md",
     "Excalidraw/Drawing 2024-05-13 09.45.12.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-13 09.45.30.excalidraw.md",
     "Excalidraw",
-    "GF/Entity Logic.md",
     "GF",
-    "Work/2024-04-03.md",
-    "Game.md",
     "Work/流程流转.canvas",
     "备份/Lua.zip",
     "备份/P2pPathData.lua",
