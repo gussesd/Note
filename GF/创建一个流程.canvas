@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"25328ea4e30f3043","type":"text","text":"当正式需要用到时调用OnEnter方法,进行一些UI类的,表内数据的初始化.","x":-316,"y":-68,"width":250,"height":60},
+		{"id":"91d938d3a14b5fda","type":"text","text":"静态创建Create , 传入一些需要用到的参数,以及自身类(缓存池中取)","x":-720,"y":-68,"width":250,"height":60},
+		{"id":"d920cb60c2f1e7ce","type":"text","text":"缓存池会调用构造方法,可以在构造方法中初始化结构","x":-720,"y":80,"width":250,"height":60},
+		{"id":"d2f575321a0cfb95","x":-639,"y":716,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"73039f461cf86dba","fromNode":"91d938d3a14b5fda","fromSide":"bottom","toNode":"d920cb60c2f1e7ce","toSide":"top"},
+		{"id":"f14f438612c2edac","fromNode":"91d938d3a14b5fda","fromSide":"right","toNode":"25328ea4e30f3043","toSide":"left"}
+	]
+}

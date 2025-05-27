@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"ee76f5b5af0e6332","x":-489,"y":100,"width":436,"height":94,"type":"text","text":"# UI\n#核心逻辑\n\n主界面\n菜单界面(可选)\n使用道具的选择(先写死3个,不用list)\n战斗中的数据选择\n战斗结束(胜利/失败, 含结算)"},
+		{"id":"2985aa3c299c3279","x":-489,"y":-60,"width":436,"height":94,"type":"text","text":"# Game Play\n#核心逻辑\n\nplayer 放置物体, 追逐移动的目标\n随机掉落物品,手动点击\n"}
+	],
+	"edges":[]
+}

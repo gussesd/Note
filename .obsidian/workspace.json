@@ -4,22 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "810ee1f03f9a1190",
+        "id": "6cc24496ac3d0ff5",
         "type": "tabs",
         "children": [
           {
-            "id": "f3e0855527b9e976",
+            "id": "995b4e3d19b0dfc1",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "GF/GF.canvas",
+                "file": "其他/流程.canvas",
                 "viewState": {
-                  "x": 2008.020155820314,
-                  "y": -1118.869771379506,
-                  "zoom": -1.3333333333333333
+                  "x": -500,
+                  "y": -320,
+                  "zoom": 0
                 }
-              }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "流程"
             }
           }
         ]
@@ -41,8 +43,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -57,7 +62,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -65,7 +72,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -96,7 +105,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "GF 的反向链接列表"
             }
           },
           {
@@ -108,7 +119,9 @@
                 "file": "GF/GF.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "GF 的出链列表"
             }
           },
           {
@@ -119,7 +132,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -129,7 +144,9 @@
               "type": "outline",
               "state": {
                 "file": "GF/GF.canvas"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "GF 的大纲"
             }
           },
           {
@@ -137,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -161,45 +180,59 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "f3e0855527b9e976",
+  "active": "995b4e3d19b0dfc1",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-05-17 11.11.21.excalidraw.md",
-    "GF/GF.canvas",
-    "Work/week.md",
-    "Excalidraw/Drawing 2024-05-13 09.45.12.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-13 09.45.30.excalidraw.md",
-    "Excalidraw",
-    "GF/ResourceComponent.md",
+    "其他/计划与流程.md",
+    "其他/流程.canvas",
+    "代办事项.md",
+    "GF/流程.canvas",
+    "GF/创建一个流程.canvas",
+    "GF/Drawing 2025-01-02 20.31.55.excalidraw.md",
+    "GF/逻辑流程.md",
+    "GF/进度.md",
+    "Excalidraw/风暴.canvas",
     "Unit图谱.canvas",
-    "GF/Entity Logic.md",
+    "Readme.md",
+    "GF/ResourceComponent.md",
+    "GF/GF.canvas",
+    "问题.md",
+    "Work/[.md",
+    "未命名.canvas",
+    "Pasted image 20240715195555.png",
+    "Pasted image 20240715194218.png",
+    "Pasted image 20240715191342.png",
     "GF/Entity Data.md",
     "GF/实体组件.md",
-    "GF",
-    "Work/2024-04-03.md",
-    "Game.md",
-    "代办事项.md",
-    "Readme.md",
-    "2024-04-17.md",
+    "GF/内建参数.md",
+    "GF/目录.png",
     "Editor/Readme.md",
     "Editor/P2pPath解释.md",
     "Editor/Odin.md",
     "Editor/点对点编辑器.md",
-    "Work/测试.md",
-    "Work/流程流转.canvas",
-    "Work/双人交互.md",
-    "Work/综述.md",
-    "Work/2024-04-07.md",
-    "Work/2024-03-28.md",
-    "Work/2024-03-20.md",
-    "Work/2024-03-19.md",
+    "Work/week.md",
     "2024-04-09.md",
+    "2024-04-17.md",
+    "Pasted image 20240715194248.png",
+    "Pasted image 20240715195601.png",
+    "Pasted image 20240715194337.png",
+    "Pasted image 20240715193058.png",
+    "Pasted image 20240715192814.png",
+    "其他",
+    "Excalidraw/Drawing 2024-05-17 11.11.21.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-13 09.45.12.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-13 09.45.30.excalidraw.md",
+    "Excalidraw",
+    "GF/Entity Logic.md",
+    "GF",
+    "Work/2024-04-03.md",
+    "Game.md",
+    "Work/流程流转.canvas",
     "备份/Lua.zip",
     "备份/P2pPathData.lua",
     "备份/MinorNpcP2p.lua",
     "备份/UnitManager.lua",
     "备份/P2pPathController.cs",
     "备份/p2pPathData.txt",
-    "备份/新建文本文档.txt",
-    "备份"
+    "备份/新建文本文档.txt"
   ]
 }

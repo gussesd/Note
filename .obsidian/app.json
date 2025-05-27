@@ -1,5 +1,6 @@
 {
   "showLineNumber": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current"
 }
