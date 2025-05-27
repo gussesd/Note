@@ -11,10 +11,14 @@
             "id": "e02bf5b3b63932b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "学习笔记/笔记/未命名.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "未命名"
             }
           }
         ]
@@ -109,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GF/GF.canvas",
+                "file": "学习笔记/笔记/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "GF 的出链列表"
+              "title": "未命名 的出链列表"
             }
           },
           {
@@ -124,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -136,10 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GF/GF.canvas"
+                "file": "学习笔记/笔记/未命名.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "GF 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -173,10 +182,30 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "e02bf5b3b63932b5",
+  "active": "2442bd23b99e7eeb",
   "lastOpenFiles": [
+    "Editor/P2pPath解释.md",
+    "Editor/Odin.md",
+    "Editor/点对点编辑器.md",
+    "GF/ResourceComponent.md",
+    "GF/Entity Logic.md",
+    "GF/Entity Data.md",
+    "GF/实体组件.md",
+    "GF/内建参数.md",
+    "GF/逻辑流程.md",
+    "Readme.md",
     "Game.md",
+    "问题.md",
+    "代办事项.md",
     "其他/计划与流程.md",
+    "学习笔记/笔记/未命名.md",
+    "Unit图谱.canvas",
+    "2024-04-17.md",
+    "2024-04-09.md",
+    "Editor/Readme.md",
+    "学习笔记/笔记",
+    "未命名",
+    "学习笔记",
     "其他/流程.canvas",
     "Excalidraw/风暴.canvas",
     "Work/2024-04-03.md",
@@ -184,49 +213,29 @@
     "Work/2024-03-20.md",
     "Work/2024-03-19.md",
     "Work/[.md",
-    "代办事项.md",
     "GF/流程.canvas",
     "GF/创建一个流程.canvas",
     "GF/Drawing 2025-01-02 20.31.55.excalidraw.md",
-    "GF/逻辑流程.md",
     "GF/进度.md",
-    "Unit图谱.canvas",
-    "Readme.md",
-    "GF/ResourceComponent.md",
     "GF/GF.canvas",
-    "问题.md",
     "未命名.canvas",
     "Pasted image 20240715195555.png",
     "Pasted image 20240715194218.png",
     "Pasted image 20240715191342.png",
-    "GF/Entity Data.md",
-    "GF/实体组件.md",
-    "GF/内建参数.md",
     "GF/目录.png",
-    "Editor/Readme.md",
-    "Editor/P2pPath解释.md",
-    "Editor/Odin.md",
-    "Editor/点对点编辑器.md",
     "Work/week.md",
-    "2024-04-09.md",
-    "2024-04-17.md",
     "Pasted image 20240715194248.png",
     "Pasted image 20240715195601.png",
     "Pasted image 20240715194337.png",
     "Pasted image 20240715193058.png",
     "Pasted image 20240715192814.png",
     "其他",
-    "Excalidraw/Drawing 2024-05-17 11.11.21.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-13 09.45.12.excalidraw.md",
     "Excalidraw",
     "GF",
     "Work/流程流转.canvas",
     "备份/Lua.zip",
     "备份/P2pPathData.lua",
     "备份/MinorNpcP2p.lua",
-    "备份/UnitManager.lua",
-    "备份/P2pPathController.cs",
-    "备份/p2pPathData.txt",
-    "备份/新建文本文档.txt"
+    "备份/UnitManager.lua"
   ]
 }
