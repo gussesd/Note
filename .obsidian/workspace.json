@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,8 +186,10 @@
   },
   "active": "e02bf5b3b63932b5",
   "lastOpenFiles": [
-    "未命名.canvas",
+    "开发需求/研发流程.md",
     "学习笔记/笔记/未命名.md",
+    "开发需求",
+    "未命名.canvas",
     "Editor/P2pPath解释.md",
     "Editor/Odin.md",
     "Editor/点对点编辑器.md",
@@ -206,7 +209,6 @@
     "2024-04-09.md",
     "Editor/Readme.md",
     "学习笔记/笔记",
-    "未命名",
     "学习笔记",
     "其他/流程.canvas",
     "Excalidraw/风暴.canvas",
