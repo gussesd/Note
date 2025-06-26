@@ -2,5 +2,6 @@
   "showLineNumber": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "tabSize": 4
 }
